@@ -1,0 +1,15 @@
+# Aspose.3D Wavefront OBJ Exporter
+# Copyright 2004-2023 Aspose Pty Ltd.
+# File created: 03/22/2023 18:16:09
+
+newmtl 1001
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd 1001_baseColor.png
+	map_Bump 1001_normal.png
+	map_Ks 1001_metallicRoughness.png
