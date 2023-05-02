@@ -1,0 +1,15 @@
+# Aspose.3D Wavefront OBJ Exporter
+# Copyright 2004-2023 Aspose Pty Ltd.
+# File created: 03/28/2023 16:56:12
+
+newmtl initialShadingGroup
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd initialShadingGroup_baseColor.jpeg
+	map_Bump initialShadingGroup_normal.png
+	map_Ks initialShadingGroup_metallicRoughness.png
